@@ -1,5 +1,5 @@
 # r-functions
-General R-functions used in many scripts
+General R-functions used in a variety of scripts
 
 ## %notin%
 Function to filter a dataset against a list
