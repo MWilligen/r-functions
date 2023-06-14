@@ -11,8 +11,8 @@ body:
     id: contact
     attributes:
       label: Contact Details
-      description: Who should we contact if we need more info
-      placeholder: ex. email@example.com
+      description: Who should we contact if we need more info.
+      placeholder: ex. John Doe
     validations:
       required: false
   - type: dropdown
